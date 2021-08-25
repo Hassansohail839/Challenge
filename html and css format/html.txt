@@ -1,0 +1,90 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <body>
+     <title>GTA V</title>
+</head>
+<body> 
+    
+    <header>
+        <ul>
+        <li><img src="images/Gta5.png" alt="logo"></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">History</a></li>
+        <li><a href="#">Guide</a></li>
+        <li><input>
+        <button>search</button></li>
+    </ul>
+
+    
+    
+    </header>
+        
+      <!------ welcome ------>  
+        <section id="new-section">
+
+            <div class="text-box">
+            <div class="row">
+                <div class="campus-col">
+                    <img src="images/blur.jpg">
+                    <div class="layer">
+                        <h1> Los Santos
+                              ----&---- 
+                            BLAINE COUNTY</h1>
+                        <h3>See the land excesses of the entertainment industry built-featuring<h3>
+                    </div>
+                </div>
+            </div>
+
+            
+           </section>
+            
+
+        <section>
+
+            <h5>Latest News</h5>
+        <div  class = "flex-box">
+            <div>
+                <h5>Title 1</h5>
+                <span>Text Goes here</span>
+            </div>
+            <div>
+                <h5>Title 2</h5>
+                <span>Text Goes here</span>
+            </div>
+            <div>
+                <h5>Title 3</h5>
+                <span>Text Goes here</span>
+            </div>
+        </div>
+
+
+
+           </section>
+           
+
+
+
+
+        
+           <div id="Side bar">
+
+            
+
+         
+        
+
+      
+        <footer>
+            This is the footer. 
+        </footer>
+         
+    
+    
+</body>
+</html>
